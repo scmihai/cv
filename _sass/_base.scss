@@ -37,6 +37,8 @@ p {
 }
 
 .sidebar-wrapper {
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
     background: $theme-color;
     position: absolute;
     right: 0;
@@ -156,6 +158,8 @@ p {
 }
 
 .main-wrapper {
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
     background: #fff;
     padding: 60px;
     padding-right: 340px;
