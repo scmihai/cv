@@ -44,50 +44,51 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Node.JS
+        level: 95%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Express.JS
+        level: 90%
 
-      - name: Angular
+      - name: React
         level: 98%
 
       - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: MongoDB
+        level: 75%
+
 experiences:
     - role: Full Stack Freelance Developer
       time: 2015 - Present
       details: |
-        NodeJS, React, GitHub, Linux, Bash
+        NodeJS, React, Git
+    
     - role: Development Manager
       time: 2014 - present
       company: DinnerBooking
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
+        Linux (CentOS), Bash, GitHub, NodeJS, React, CSS
+
+    - role: Developer
       time: 2012 - 2014
-      company: Amazon, London
+      company: Codeless Technology
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        C#, VB.Net, Transact-SQL, VBA, Groovy 
+
+    - role: Developer / Product Owner
+      time: 2004 - 2011
+      company: CTCE (Piatra Neamt, RO)
+      details: |
+        C#, MSSQL Server, FirebirdSQL 
+
+    - role: Network / Sys Admin
+      time: 1999 - 2002
+      company: ComputerHouse / Telebit ISP /NENA Group (Iasi, RO)
+      details: |
+        Lotus Notes, Windows, Linux (Slackware, RedHat), Networks 
+
 
 footer: >
     Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
