@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: M S
+    name: Mihai Scrib
     tagline: Full Stack Developer
     avatar: ms.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -45,19 +45,20 @@ skills:
 
     toolset:
       - name: Node.JS
-        level: 95%
-
-      - name: Express.JS
-        level: 90%
+        level: 80%
 
       - name: React
-        level: 98%
-
-      - name: HTML5 & CSS
         level: 85%
 
-      - name: MongoDB
+      - name: HTML5 & CSS
         level: 75%
+
+      - name: MongoDB / SQL
+        level: 65%
+
+      - name: Linux
+        level: 90%
+
 
 experiences:
     - role: Full Stack Freelance Developer
