@@ -38,8 +38,7 @@ sidebar:
 
 education:
     - degree: Bachelor of Computer Science
-      university: Gheorghe Asachi Technical University Iasi
-      time: 1998
+      university: Gheorghe Asachi Technical University Iasi 1998
 
 skills:
     title: Skills &amp; Proficiency
@@ -91,4 +90,4 @@ experiences:
           - Bullet point
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
